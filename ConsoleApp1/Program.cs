@@ -30,6 +30,22 @@
              * "Игрок" или еще к чему то
              */
 
+            // Оператор ?.
+
+            string? name_2 = null;
+            Console.WriteLine(name_2?.Length);
+
+            // Метод ToUpper() увеличивает все значение String на CAPS
+            string? name_3 = "Иди нахуй";
+            Console.WriteLine(name_3?.ToUpper());
+
+            // ?[] то же самое только для масивов
+
+            int[]? numbers = null;
+
+            Console.WriteLine(numbers?[0]);
+
+
 
         }
     }

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ref_Ключевоеслово": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

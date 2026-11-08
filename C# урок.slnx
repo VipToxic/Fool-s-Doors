@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="C# урок/Doors.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="a8557f3f-f59f-4550-8230-f5ff52dc1f8c" />
+  <Project Path="ref_Ключевоеслово/ref_Ключевоеслово.csproj" Id="d3722531-fdf9-4d5b-a33a-433348d005f6" />
 </Solution>
